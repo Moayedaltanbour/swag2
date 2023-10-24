@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-24T13:13:45 EET" name="Default suite" finished-at="2023-10-24T13:14:02 EET" duration-ms="16692">
+    <groups>
+    </groups>
+    <test started-at="2023-10-24T13:13:45 EET" name="Default test" finished-at="2023-10-24T13:14:02 EET" duration-ms="16692">
+      <class name="swaq_lab.TestCaseaAddtoCart">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:swaq_lab.TestCaseaAddtoCart@207ea13]" started-at="2023-10-24T13:13:45 EET" name="mySetup" finished-at="2023-10-24T13:13:47 EET" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="LoginWithPerformanceUser()[pri:0, instance:swaq_lab.TestCaseaAddtoCart@207ea13]" started-at="2023-10-24T13:13:47 EET" name="LoginWithPerformanceUser" finished-at="2023-10-24T13:13:55 EET" duration-ms="8443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithPerformanceUser -->
+        <test-method is-config="true" signature="myPostTesting()[pri:0, instance:swaq_lab.TestCaseaAddtoCart@207ea13]" started-at="2023-10-24T13:13:55 EET" name="myPostTesting" finished-at="2023-10-24T13:13:55 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPostTesting -->
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:swaq_lab.TestCaseaAddtoCart@207ea13]" started-at="2023-10-24T13:13:55 EET" name="mySetup" finished-at="2023-10-24T13:13:55 EET" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="LoginWithProblemUser()[pri:0, instance:swaq_lab.TestCaseaAddtoCart@207ea13]" started-at="2023-10-24T13:13:55 EET" name="LoginWithProblemUser" finished-at="2023-10-24T13:13:59 EET" duration-ms="3416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithProblemUser -->
+        <test-method is-config="true" signature="myPostTesting()[pri:0, instance:swaq_lab.TestCaseaAddtoCart@207ea13]" started-at="2023-10-24T13:13:59 EET" name="myPostTesting" finished-at="2023-10-24T13:13:59 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPostTesting -->
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:swaq_lab.TestCaseaAddtoCart@207ea13]" started-at="2023-10-24T13:13:59 EET" name="mySetup" finished-at="2023-10-24T13:13:59 EET" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="LoginWithStandardUSer()[pri:0, instance:swaq_lab.TestCaseaAddtoCart@207ea13]" started-at="2023-10-24T13:13:59 EET" name="LoginWithStandardUSer" finished-at="2023-10-24T13:14:02 EET" duration-ms="3316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithStandardUSer -->
+        <test-method is-config="true" signature="myPostTesting()[pri:0, instance:swaq_lab.TestCaseaAddtoCart@207ea13]" started-at="2023-10-24T13:14:02 EET" name="myPostTesting" finished-at="2023-10-24T13:14:02 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPostTesting -->
+      </class> <!-- swaq_lab.TestCaseaAddtoCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
